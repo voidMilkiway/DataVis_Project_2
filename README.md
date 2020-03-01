@@ -3,8 +3,6 @@
 
 By Maika Krüger, FU Berlin, Bsc Computer Science
 
-# Introduction
-
 The DFG (Deutsche Forschnungsgesellschaft) focuses especially on equal opportunities and gender equality (GE) for (junior) scientist*. By undertaking a Benchmarking, DFG would like to know their state of the art on this topic focusing on Engineering,Natural Science, Mathematics and Technologie (STEM). Having the highest Score of the "Gender Equality Index" in the European Union (EU) Sweden is choosen as the Benchmark.
 
 *https://www.dfg.de/dfg_profil/aufgaben/was_ist_die_dfg/index.html
